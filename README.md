@@ -1,0 +1,2 @@
+# R-Programming-Growth-Rates-Stochastic-and-Deterministic-Loops
+This is an assignment in my R Programming course which focuses on the implementation of loops and equations in order to solve problems regarding growth rates. One of the main problems tackled in this coursework is to predict the number of foxes and rabbits in a predator-prey modeling scenario using deterministic and stochastic modeling. 
